@@ -7,7 +7,7 @@ A file demonstrating how you can combine popovers and card windows to maximum ef
 
 [Download on Github][MrWatsonsPopoverCardWindowTechnique repo]
 
-Enjoy! [(MIT)](LICENCE)
+Enjoy! [(MIT)](LICENSE)
 
 MrWatson
 
